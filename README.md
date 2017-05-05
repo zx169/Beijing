@@ -13,4 +13,4 @@
 
 #### 本页永久地址：https://git.io/beijing
 
-<a id="qr"><img border="0" src="https://github.com/zx169/article/blob/master/BJQR.jpg" width=200;></a>
+<a id="qr"><img border="0" src="https://github.com/zx169/article/blob/master/BJQR.jpg" width=300;></a>
