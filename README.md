@@ -1,4 +1,4 @@
-<a id="header" href="http://yfde.undo.it"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/25693367/e60b7374-3076-11e7-88fb-25016b7b0067.jpg" style="max-width:100%;"></a>  
+<a id="header" href="https://gyqxe.azureedge.net/ogPipe.aspx?name=http://621/&from=BJweb"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/25693367/e60b7374-3076-11e7-88fb-25016b7b0067.jpg" style="max-width:100%;"></a>  
 【请点击上图】访问北京真相网站，大陆直连域名：[yfde.undo.it](http://yfde.undo.it)
 
 北京真相网旨在为华人读者，特别是大陆北京地区读者提供一个全面了解真相的平台。
