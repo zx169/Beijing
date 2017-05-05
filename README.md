@@ -1,5 +1,5 @@
 <a id="header" href="https://gyqxe.azureedge.net/ogPipe.aspx?name=http://621/&from=BJweb"><img border="0" src="https://github.com/zx169/article/blob/master/Beijing.jpg" style="max-width:100%;"></a>  
-【请点击上图】访问北京真相网站，大陆直连域名：[yfde.undo.it](http://yfde.undo.it)
+【请点击上图】访问[北京真相](https://gyqxe.azureedge.net/ogPipe.aspx?name=http://621/&from=BJweb)网站，大陆直连域名：[https://bit.do/bj2017](https://bit.do/bj2017)
 
 北京真相网旨在为华人读者，特别是大陆北京地区读者提供一个全面了解真相的平台。
 
@@ -11,6 +11,6 @@
 
 如果您有什么意见和建议，可以在本站留言，或发信到海外电子邮箱 ：webmaster@beijingzx.org
 
-本页永久地址：https://bit.do/chun
+本页永久地址：https://git.io/beijing
 
-<a id="qr"><img border="0" src="https://github.com/zx169/article/blob/master/BJQR.png" width=200;></a>
+<a id="qr"><img border="0" src="https://github.com/zx169/article/blob/master/BJQR.jpg" width=200;></a>
