@@ -1,5 +1,5 @@
-<a id="header" href="https://864257.global.ssl.fastly.net/ogPipe.aspx?name=http://621/&from=BJweb"><img border="0" src="https://github.com/zx169/article/blob/master/Beijing.jpg" style="max-width:100%;"></a>  
-**【请点击上图】访问[北京真相](https://864257.global.ssl.fastly.net/ogPipe.aspx?name=http://621/&from=BJweb)网站，大陆直连域名：[https://bit.do/bj2017](https://bit.do/bj2017)**
+<a id="header" href="https://s3.amazonaws.com/ogate/oGate.htm?ogPipe.aspx?name=http://621/&from=BJweb"><img border="0" src="https://github.com/zx169/article/blob/master/Beijing.jpg" style="max-width:100%;"></a>  
+**【请点击上图】访问[北京真相](https://s3.amazonaws.com/ogate/oGate.htm?ogPipe.aspx?name=http://621/&from=BJweb)网站，大陆直连域名：[https://bit.do/bj2017](https://bit.do/bj2017)**
 
 北京真相网旨在为华人读者，特别是大陆北京地区读者提供一个全面了解真相的平台。
 
